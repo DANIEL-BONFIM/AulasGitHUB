@@ -1,6 +1,3 @@
 print('oi')
 
-#testando o add
-
-
-#oiii
+print('fala trouxa')
